@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tuhin/Desktop/home work/home_work/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/tuhin/.gradle/caches/transforms-3/314baeb09f65a7cee9a0a98683b112e8/transformed/appcompat-1.4.2/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
